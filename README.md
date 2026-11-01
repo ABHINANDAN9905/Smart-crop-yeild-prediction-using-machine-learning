@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌾 AI-Powered Crop Yield Prediction System
+# 🌾 Smart Crop Yield Prediction using Machine Learning
 
 ### Production-grade ML system predicting Indian crop yields with weather forecasts, farmer overrides, and full explainability
 
@@ -10,11 +10,11 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.140-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![SHAP](https://img.shields.io/badge/SHAP-0.49-9C27B0)](https://shap.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20❤️%20in-India-FF9933)](https://github.com/AmiNilay/Crop-Yield-Prediction-System)
+[![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20❤️%20in-India-FF9933)](https://github.com/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning)
 
 **Version 3.2.0** · 50,000 district-level records · 33 states · 15 crops · 6 seasons
 
-[Live Demo](#) · [API Docs](#api-documentation) · [Dashboard](#dashboard) · [Report Bug](https://github.com/AmiNilay/Crop-Yield-Prediction-System/issues) · [Request Feature](https://github.com/AmiNilay/Crop-Yield-Prediction-System/issues)
+[Live Demo](#) · [API Docs](#api-documentation) · [Dashboard](#dashboard) · [Report Bug](https://github.com/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning/issues) · [Request Feature](https://github.com/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning/issues)
 
 ![Dashboard Preview](docs/screenshots/tab1_prediction.jpg)
 
@@ -283,7 +283,7 @@ Every data source and API used is free forever. No paid tiers, no credit cards r
 <summary><b>Click to expand directory tree</b></summary>
 
 ```
-crop-yield-prediction/
+smart-crop-yield-prediction-using-machine-learning/
 ├── api/                          # FastAPI REST serving layer
 │   ├── main.py                   #   15 endpoints + Swagger UI
 │   ├── __init__.py
@@ -343,8 +343,8 @@ crop-yield-prediction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/AmiNilay/Crop-Yield-Prediction-System.git
-cd Crop-Yield-Prediction-System
+git clone https://github.com/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning.git
+cd smart-crop-yield-prediction-using-machine-learning
 
 # Create and activate virtual environment
 python -m venv venv
@@ -771,7 +771,7 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Check the [open issues](https://github.com/AmiNilay/Crop-Yield-Prediction-System/issues) for a list of proposed features and known bugs.
+Check the [open issues](https://github.com/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning/issues) for a list of proposed features and known bugs.
 
 ---
 
@@ -781,11 +781,15 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for more informati
 
 ---
 
-## 👤 Author
+## 👤 Project Maintainer
 
-**Nilay Naha** — [@AmiNilay](https://github.com/AmiNilay)
+**Abhinandan Kumar** — [@ABHINANDAN9905](https://github.com/ABHINANDAN9905)
 
-Project Link: [https://github.com/AmiNilay/Crop-Yield-Prediction-System](https://github.com/AmiNilay/Crop-Yield-Prediction-System)
+**Project Team:** Abhinandan Kumar and Ravi Raj  
+**Institution:** Lovely Professional University, Phagwara, Punjab
+
+Project Link: [https://github.com/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning](https://github.com/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning)
+
 
 ---
 
@@ -805,7 +809,7 @@ Project Link: [https://github.com/AmiNilay/Crop-Yield-Prediction-System](https:/
 
 **Made with 🌾 for Indian farmers**
 
-[![GitHub stars](https://img.shields.io/github/stars/AmiNilay/Crop-Yield-Prediction-System?style=social)](https://github.com/AmiNilay/Crop-Yield-Prediction-System/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AmiNilay/Crop-Yield-Prediction-System?style=social)](https://github.com/AmiNilay/Crop-Yield-Prediction-System/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning?style=social)](https://github.com/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning?style=social)](https://github.com/ABHINANDAN9905/smart-crop-yield-prediction-using-machine-learning/network/members)
 
 </div>
